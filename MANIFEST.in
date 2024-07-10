@@ -1,0 +1,2 @@
+include *.txt
+recursive-include phone *.py *.json *.html *.css *.js
